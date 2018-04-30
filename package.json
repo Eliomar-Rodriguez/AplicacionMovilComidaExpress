@@ -1,0 +1,32 @@
+{
+  "name": "back-end_inicio",
+  "version": "1.0.0",
+  "description": "Back-End para aplicacion movil de servicio de comidas express, curso disenio de software",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Eliomar-Rodriguez/AplicacionMovilComidaExpress.git"
+  },
+  "keywords": [
+    "ReactNative",
+    "NodeJS",
+    "Aplicacion",
+    "ComidaExpress"
+  ],
+  "author": "Eliomar Rodriguez, Andres Fernandez, Stward Perez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Eliomar-Rodriguez/AplicacionMovilComidaExpress/issues"
+  },
+  "homepage": "https://github.com/Eliomar-Rodriguez/AplicacionMovilComidaExpress#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "helmet": "^3.12.0",
+    "hotnode": "0.0.8",
+    "jquery": "^3.3.1"
+  }
+}
