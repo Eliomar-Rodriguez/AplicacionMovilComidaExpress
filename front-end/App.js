@@ -5,12 +5,11 @@ export default class App extends React.Component {
   render() {
     return (
       <View style={styles.container}>
-        <Text>Diay, se supone que esto debe leerse</Text>
+        <Text>Comida express</Text>
       </View>
     );
   }
 }
-
 const styles = StyleSheet.create({
   container: {
     flex: 1,
