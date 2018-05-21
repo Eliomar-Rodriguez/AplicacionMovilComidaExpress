@@ -1,4 +1,3 @@
-
 'use strict'
 angular.module('userModule')
 .controller('pedidosController',function($scope,OperationsPedidos,$location,$route){
