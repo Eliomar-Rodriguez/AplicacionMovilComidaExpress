@@ -6,10 +6,12 @@ angular.module('userModule')
        nombre_categoria:""
    }
    $scope.producto={
+       identificacion:"",
        nombre_producto:"",
        precio:"",
-       estado:"",
-       nombre_categoria:""
+       ingredientes:"",
+       nombre_categoria:"",
+       calorias:""
    }
     $scope.getCategorias= function getCategorias(){
         OperationsProductos.getCategorias(function(res){
