@@ -8,4 +8,5 @@
 ## Información del proyecto
 Aplicación móvil realizada en react-native para el curso de diseño de software, además en éste repositorio se encuentra la parte web del proyecto realizada en AngularJS.
 
-Haga click [aquí](https://github.com/Eliomar-Rodriguez/Back-End_InstantFoodCR) para acceder al Back-End de este proyecto realizado en NodeJS
+El backend esta hecho en NodeJS pero como esta subido a heroku no se puede mostrar porque heroku no lo permite.
+Pero el link al repo que da heroku es el [éste](https://git.heroku.com/guarded-eyrie-96688.git), quizá puedan bajarlo y obtener el código.
